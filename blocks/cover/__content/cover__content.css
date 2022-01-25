@@ -1,0 +1,15 @@
+.cover__content {
+  margin: auto;
+}
+
+@media (max-width: 768px) {
+  .cover__content {
+    max-height: calc((100vw - 320px) / (768 - 320) * (250  - 134) + 134px);
+  }
+}
+
+@media (max-width: 438px) {
+  .cover__content {
+    max-width: calc((100vw - 320px) / (438 - 320) * (360  - 288) + 288px);
+  }
+}

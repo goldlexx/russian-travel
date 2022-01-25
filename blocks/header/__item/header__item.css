@@ -1,0 +1,15 @@
+.header__item {
+  margin-right: 18px;
+}
+
+.header__item:first-of-type::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: white;
+}
+
+.header__item:last-of-type {
+  margin: 0;
+}

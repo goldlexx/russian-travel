@@ -1,0 +1,19 @@
+.header__lang-link {
+  display: inline-block;
+  font-size: 24px;
+  line-height: 117%;
+  text-decoration: none;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .header__lang-link {
+    font-size: calc((100vw - 320px) / (768 - 320) * (24 - 18) + 18px);
+  }
+}
+
+@media (max-width: 320px) {
+  .header__lang-link {
+    line-height: 111%;
+  }
+}

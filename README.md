@@ -1,7 +1,7 @@
 #  <center> Проектная работа 3: "Путешествия по Россиии" [Яндекс практикум](https://practicum.yandex.ru/) </center>
 ---
 
-#  <center> Проект доступен в GitHub Pages [Ссылка для перехода](https://goldlexx.github.io/russian-travel/) </center>
+#  <center> Проект доступен в GitHub Pages [cсылка для перехода](https://goldlexx.github.io/russian-travel/) </center>
 ---
 
 ## Описание проекта

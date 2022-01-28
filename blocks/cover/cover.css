@@ -1,5 +1,6 @@
 .cover {
   position: relative;
+  z-index: 1;
   margin: 92px auto 0;
   width: calc(100% - 48px * 2);
   background: url("../../images/cover-trains.jpg") no-repeat;

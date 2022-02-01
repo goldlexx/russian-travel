@@ -4,6 +4,13 @@
   line-height: 117%;
   text-decoration: none;
   color: #fff;
+  -webkit-transition: 0.5s linear;
+  -o-transition: 0.5s linear;
+  transition: opacity 0.5s linear;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
 }
 
 @media (max-width: 768px) {

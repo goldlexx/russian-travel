@@ -27,3 +27,12 @@
     font-size: calc((100vw - 320px) / (485 - 320) * (51  - 32) + 32px);
   }
 }
+
+@media screen and (max-width: 320px) {
+  .cover__title {
+    margin-bottom: 16px;
+    max-width: 250px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}

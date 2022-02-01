@@ -43,3 +43,9 @@
     display: block;
   }
 }
+
+@media (max-width: 320px) {
+  .place {
+    margin-bottom: 50px;
+  }
+}

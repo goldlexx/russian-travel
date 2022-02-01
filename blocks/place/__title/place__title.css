@@ -28,3 +28,10 @@
     text-align: left;
   }
 }
+
+@media (max-width: 320px) {
+  .place__title {
+    max-width: 288px;
+    font-size: 32px;
+  }
+}

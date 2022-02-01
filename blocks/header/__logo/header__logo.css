@@ -9,3 +9,10 @@
     height: calc((100vw - 320px) / (768 - 320) * (52 - 42) + 42px);
   }
 }
+
+@media (max-width: 320px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
+}

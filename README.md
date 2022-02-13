@@ -1,10 +1,10 @@
 # Проектная работа: "How to learn". Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на факультете ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
 
-*Read this in other languages:* [EN]()
+*Read this in other languages:* [EN](https://github.com/MelnikovAleksei/russian-travel/blob/master/README.EN.md)
 
 ## Описание:
 
-"Путешествие по России" - это типовой однастраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn" (ссылка на репозиторий)](https://goldlexx.github.io/how-to-learn/) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
+"Путешествие по России" - это типовой однастраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn"](https://goldlexx.github.io/how-to-learn/) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
 
 
 | **GithHub Pages** | [Проектная работа на GitHub Pages](https://goldlexx.github.io/russian-travel/) |

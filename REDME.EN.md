@@ -4,9 +4,9 @@
 
 ## Description:
 
-"Travel in Russia" is a typical one-page site about Russian domestic tourism. In the design work, work with the layout in Figma, the construction of complex grids, and advanced HTML and CSS capabilities were applied. The difference from the previous project work ["How to learn" (link to the repository)](https://goldlexx.github.io/how-to-learn/) is the implementation of adaptive layout using Flexbox, Grid Layout and Media requests.
+"Travel in Russia" is a typical one-page site about Russian domestic tourism. In the design work, work with the layout in Figma, the construction of complex grids, and advanced HTML and CSS capabilities were applied. The difference from the previous project work ["How to learn"](https://goldlexx.github.io/how-to-learn/) is the implementation of adaptive layout using Flexbox, Grid Layout and Media requests.
 
-*Read this in other languages:* [RU]()
+*Read this in other languages:* [RU](https://github.com/goldlexx/russian-travel/blob/main/README.md)
 
 | **GithHub Pages** | [Deploy on GitHub Pages](https://goldlexx.github.io/russian-travel/) |
 | ----------------- | -------------------------------------------------------------------- |

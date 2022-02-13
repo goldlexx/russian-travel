@@ -1,6 +1,6 @@
 # Проектная работа: "How to learn". Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на факультете ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
 
-*Read this in other languages:* [EN](https://github.com/MelnikovAleksei/russian-travel/blob/master/README.EN.md)
+*Read this in other languages:* [EN](https://github.com/goldlexx/russian-travel/blob/main/REDME.EN.md)
 
 ## Описание:
 

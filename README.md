@@ -4,7 +4,7 @@
 
 ## Описание:
 
-"Путешествие по России" - это типовой однастраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, раcширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn"](https://goldlexx.github.io/how-to-learn/) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
+"Путешествие по России" - это типовой одностраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, расширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn"](https://goldlexx.github.io/how-to-learn/) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
 
 
 | **GithHub Pages** | [Проектная работа на GitHub Pages](https://goldlexx.github.io/russian-travel/) |
@@ -28,9 +28,9 @@
 
 ## Инструкция по установке:
 
-```
+
 git clone https://github.com/goldlexx/russian-travel.git
-```
+
 Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 
 ## Будущая доработка проекта будет включать в себя:
@@ -43,11 +43,10 @@ git clone https://github.com/goldlexx/russian-travel.git
 
 ## Ссылка на макет:
 
-[Макет в "Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+[Макет в "Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-+-mobile?node-id=28503:0)
 
 ## Ссылка на чеклист:
 
 [Чеклист проектной работы](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html)
-
 
 

@@ -6,7 +6,7 @@
           column-gap: 40px;
   -ms-grid-columns: minmax(440px, 460px) 40px minmax(456px, 484px);
   grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
-  margin: 0 auto 80px;
+  margin: 0 auto 100px;
   max-width: 984px;
   row-gap: 48px;
 }
@@ -34,7 +34,7 @@
             column-gap: 28px;
     -ms-grid-columns: minmax(300px, 340px) 28px minmax(300px, 352px);
     grid-template-columns: minmax(300px, 340px) minmax(300px, 352px);
-    margin-bottom: calc((100vw - 320px) / (768 - 320) * (73 - 50) + 50px);
+    margin-bottom: 95px;
   }
 }
 
@@ -46,6 +46,6 @@
 
 @media (max-width: 320px) {
   .place {
-    margin-bottom: 50px;
+    margin-bottom: 64px;
   }
 }

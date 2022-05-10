@@ -1,0 +1,20 @@
+.video__list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 18px;
+}
+
+@media (max-width: 690px) {
+  .video__list {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 360px) {
+  .video__list {
+    gap: 8px;
+  }
+}

@@ -1,59 +1,35 @@
-# Проектная работа: "Путешествия по России". Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на факультете ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
+# Russian Travel
 
-*Read this in other languages:* [EN](https://github.com/goldlexx/russian-travel/blob/main/README.en.md)
+A responsive, single-page guide to destinations across Russia, featuring travel photography and short editorial descriptions.
 
-## Описание:
+## Live Demo
 
-"Путешествие по России" - это типовой одностраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, расширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn"](https://goldlexx.github.io/how-to-learn/) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
+[Open the website](https://goldlexx.github.io/russian-travel/)
 
+## Features
 
-| **GithHub Pages** | [Проектная работа на GitHub Pages](https://goldlexx.github.io/russian-travel/) |
-| ----------------- | -------------------------------------------------------------------- |
+- Destination stories and links to related resources
+- Responsive photo grid and travel video previews
+- Layouts built for mobile, tablet, and desktop screens
 
-## Функционал:
-* Проект адаптирован под различные разрешения устройств:
-  - до 768 пикселей - мобильные устройства;
-  - от 768 до 1024 пикселей - от вертикального до горизонтального положения планшета;
-  - от 1024 до 1280 пикселей — небольшие ноутбуки;
-  - от 1280 пикселей — от стандартных ноутбуков и до бесконечности.
-* Адаптивный дизайн:
-  - все элементы сайта тянутся и сжимаются;
-  - применяются медиа-запросы (@media) для изменения внешнего вида;
-* Сложная сетка в разделе *places* и *photo-grid*
-* Трансформация элементов страницы посредством CSS
+## Tech Stack
 
-## Технологии:
+- HTML5
+- CSS3, including Flexbox, Grid, and media queries
+- BEM naming and nested file organization
 
-* Flexbox
-* Grid Layout
-* Positioning Elements
-* BEM Methodology
-* File Structure and File Paths (Nested BEM)
-* Git
-* Figma
+## Getting Started
 
-## Инструкция по установке:
+Clone the repository and serve its root directory with a local static HTTP server. For example, if Python is installed:
 
-```
+```bash
 git clone https://github.com/goldlexx/russian-travel.git
+cd russian-travel
+python -m http.server 8000
 ```
 
-Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
+Then open `http://localhost:8000` in a browser.
 
-## Будущая доработка проекта будет включать в себя:
+## Project Background
 
-* Сборка проекта посредством Webpack
-* Создание *popup* c дополнительной информацией о проекте
-* Реализация функционала смены языка страницы
-* Требуется сверстать два блока из дополнительного макета
-
-
-## Ссылка на макет:
-
-[Макет в "Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-+-mobile?node-id=28503:0)
-
-## Ссылка на чеклист:
-
-[Чеклист проектной работы](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html)
-
-
+This static website was created as a learning project during the Yandex Practicum web development course.

@@ -1,6 +1,6 @@
 # Проектная работа: "Путешествия по России". Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на факультете ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
 
-*Read this in other languages:* [EN](https://github.com/goldlexx/russian-travel/blob/main/REDME.EN.md)
+*Read this in other languages:* [EN](https://github.com/goldlexx/russian-travel/blob/main/README.en.md)
 
 ## Описание:
 

@@ -1,35 +1,31 @@
-# Russian Travel
+<div align="center">
 
-A responsive, single-page guide to destinations across Russia, featuring travel photography and short editorial descriptions.
+# 🗺️ Russian Travel
 
-## Live Demo
+Адаптивный одностраничный путеводитель по направлениям России.
 
-[Open the website](https://goldlexx.github.io/russian-travel/)
+[![HTML](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-222?logo=github)](https://goldlexx.github.io/russian-travel/)
 
-## Features
+</div>
 
-- Destination stories and links to related resources
-- Responsive photo grid and travel video previews
-- Layouts built for mobile, tablet, and desktop screens
+## Возможности
 
-## Tech Stack
+- тематические карточки регионов и маршрутов;
+- фотогалерея и ссылки на дополнительные материалы;
+- адаптивная сетка изображений.
 
-- HTML5
-- CSS3, including Flexbox, Grid, and media queries
-- BEM naming and nested file organization
+## Демонстрация
 
-## Getting Started
+[Открыть путеводитель](https://goldlexx.github.io/russian-travel/)
 
-Clone the repository and serve its root directory with a local static HTTP server. For example, if Python is installed:
+## Запуск
 
-```bash
-git clone https://github.com/goldlexx/russian-travel.git
-cd russian-travel
-python -m http.server 8000
-```
+Откройте `index.html` через статичный HTTP-сервер.
 
-Then open `http://localhost:8000` in a browser.
+## Технологии
 
-## Project Background
+HTML и CSS.
 
-This static website was created as a learning project during the Yandex Practicum web development course.
+## Лицензия
+
+Лицензия в репозитории не указана.

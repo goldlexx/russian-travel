@@ -1,31 +1,19 @@
 <div align="center">
 
-# 🗺️ Russian Travel
+# 🚂 Путешествия по России
 
-Адаптивный одностраничный путеводитель по направлениям России.
+**Фотопутеводитель от Куршской косы и Кольского полуострова до Алтая и зимнего Байкала.**
 
-[![HTML](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-222?logo=github)](https://goldlexx.github.io/russian-travel/)
+![HTML](https://img.shields.io/badge/HTML-D94D27) ![CSS](https://img.shields.io/badge/CSS-5546A6)
+
+[Открыть страницу](https://goldlexx.github.io/russian-travel/)
 
 </div>
 
-## Возможности
+Развороты о местах объединяют фотографию, авторский текст и ссылку для дальнейшего чтения. Между ними расположены фотосетка, видеоматериалы и отзывы фотографов. На узком экране колонки переходят в последовательную ленту. За композицию отвечают CSS Grid, Flexbox и медиазапросы, стили блоков организованы по БЭМ.
 
-- тематические карточки регионов и маршрутов;
-- фотогалерея и ссылки на дополнительные материалы;
-- адаптивная сетка изображений.
+![Обложка фотопутеводителя о путешествиях по России](docs/interface.jpg)
 
-## Демонстрация
+## Локальный запуск
 
-[Открыть путеводитель](https://goldlexx.github.io/russian-travel/)
-
-## Запуск
-
-Откройте `index.html` через статичный HTTP-сервер.
-
-## Технологии
-
-HTML и CSS.
-
-## Лицензия
-
-Лицензия в репозитории не указана.
+Откройте `index.html` из корня репозитория в браузере.
